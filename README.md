@@ -19,5 +19,4 @@ Well unfortunately there is no formal way to contribute, we would encourage you 
     
 We love answering questions or doubts simply ask us in issue section. We're looking forward to hearing from you!
  
-  - Follow us [@KiwiCommerce](https://twitter.com/KiwiCommerce)
   - <a href="mailto:ersandeepgu@gmail.com">Email Us</a>
